@@ -2,7 +2,7 @@
 
 Download the latest version of the program [here](https://github.com/LunarEclipseCode/survivor-library-downloader/releases/) 
 
-![](C:\Users\rajda\Pictures\Screenshots\sample-look.png)
+![image](https://github.com/LunarEclipseCode/survivor-library-downloader/assets/74882728/25bf862e-17b4-42f8-831d-39b2e145b84f)
 
 Although the name says 'Downloader', The purpose of this program is more than just creating an offline copy of the [Survivor Library](https://www.survivorlibrary.com/library-download.html). 
 
